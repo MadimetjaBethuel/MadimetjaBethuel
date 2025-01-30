@@ -1,12 +1,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Madimetja
 =================================================================================================================================
 
-Software Engineer
+ FullStack Software Engineer
 -----------------
 
-I am Fullstack software Engineer with background in web development and application development mainly android. I work with different technologies , mainly on Java for Android ,Flutter for cross platform application and my python experience is mostly in backend development of mostly using flask with a little bit of machine learning. I hold honors degree in computer science from the University of Zululand and concentrated in development of machine learning learning model that can categorize different sepedi book into levels of difficulty. I have maintained to complete my studies while working to further my education both academically and cooperate.
 
-*   🌍  I'm based in Durban, South Africa
+*   🌍  I'm based in Polokwane, South Africa
 
 
 ### Skills 
